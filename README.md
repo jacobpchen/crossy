@@ -1,4 +1,4 @@
-*Crossy**
+**Crossy**
 A game created in Python using pygame based on the Frogger game
 Created by: **Jacob Chen**
 
